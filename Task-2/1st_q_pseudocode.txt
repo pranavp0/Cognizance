@@ -1,0 +1,12 @@
+declare a,inp as integers 			# 'a' and 'inp' are variables.
+declare b as real number			# 'b' is a variable.
+
+input inp from user 				# 'inp' is a variable.
+
+assigning b to input divided by 3		# 'b' will store the value either as a integer or float.
+assigning a to input divided by 3		# 'a' will perform floor division and store as it's closest integer. 
+
+if {a==b					# if this condition is true, 'true' will be printed
+	print 'true'}
+else{						# if this condition is false, 'false' will be printed
+	print 'false'}

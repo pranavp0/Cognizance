@@ -1,0 +1,18 @@
+declare a,b,c,i,inp 					# 'a','b','c','i','inp'
+
+assign a=0
+assign b=1
+assign c=1
+
+print 'enter number'					#  this is for input 
+input inp							# get input and store
+
+for i in range(1 to 45){				# for loop still only 45, because flowgorithm can 
+								  only store till value of i till 45.
+	if i==inp{						# when this if condition gets passed, 
+		print c}					  nth number of fibonacci will be printed.
+
+	c=a+b							# this will add a and b
+	a=b							# assigning b to a
+	b=c							# assigning c to b
+}
