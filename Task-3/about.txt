@@ -1,0 +1,2 @@
+this website is for booking movie tickets online and to see available tickets & show timings.
+i used figma to design the site. figma.com
