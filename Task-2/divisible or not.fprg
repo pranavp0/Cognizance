@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="prana"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-02-16 03:37:58 PM"/>
+        <attribute name="created" value="cHJhbmE7WkVVUzsyMDIyLTAyLTE2OzAxOjU3OjE0IFBNOzIxMzQ="/>
+        <attribute name="edited" value="cHJhbmE7WkVVUzsyMDIyLTAyLTE2OzAzOjM3OjU4IFBNOzc7MjI1Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, inp" type="Integer" array="False" size=""/>
+            <declare name="b" type="Real" array="False" size=""/>
+            <output expression="&quot;enter number&quot;" newline="True"/>
+            <input variable="inp"/>
+            <assign variable="b" expression="inp/3"/>
+            <assign variable="a" expression="inp/3"/>
+            <if expression="a==b">
+                <then>
+                    <output expression="true" newline="True"/>
+                </then>
+                <else>
+                    <output expression="false" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

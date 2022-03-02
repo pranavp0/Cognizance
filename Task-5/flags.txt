@@ -1,0 +1,11 @@
+flag{f1rst_fl@g_h3r3}
+flag{Y0u_f0und_th3_hidd3n_dir!}
+flag{Y0u_f0und_m3!}
+flag{e@5y_p@ssw0rd!} 					-- zip_file_huh?  zip file passwd
+flag{m3ow_m3ow_cat!}
+flag{t3xt_15_n0t_h1dd3n!}
+flag{3x3cut10n_d0n3!}
+flag{t@c_15_fun!}
+flag{d1ff_15_u53ful!}
+flag{h1dden_fil3!}
+flag{gr3p_f1nds_fl@gs!}
